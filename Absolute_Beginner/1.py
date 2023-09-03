@@ -19,4 +19,4 @@ Sample Output :
 '''
 
 farenheit = round((int(input()) * 1.8) + 32, 2)
-print(farenheit)
+print('{:.2f}'.format(farenheit))
