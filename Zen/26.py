@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 import math
 #Getting input via STDIN
 userInput = int(input())

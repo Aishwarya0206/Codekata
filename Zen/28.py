@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 #Getting input via STDIN
 userInput = [int(i) for i in input().strip().split()]
 print(userInput[0]**userInput[1])

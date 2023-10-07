@@ -16,6 +16,7 @@ Sample Output :
 Ge
 
 '''
+
 s = input()
 l = []
 for i in s:

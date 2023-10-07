@@ -16,6 +16,7 @@ Sample Output :
 guvi geek
 
 '''
+
 #Getting input via STDIN
 userInput = input().lower()
 print(userInput)

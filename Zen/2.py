@@ -18,6 +18,7 @@ odd odd even
 
 '''
 
+
 n = int(input())
 l = list(map(int, input().split(' ')))[:n]
 odd_even = []

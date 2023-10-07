@@ -18,6 +18,7 @@ Sample Output :
 
 '''
 
+
 n = int(input())
 l = [int(i) for i in input().split()][:n]
 s = [i for i in l if(l.count(i) == 1)]

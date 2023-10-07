@@ -18,6 +18,7 @@ Sample Output :
 6 9 7 9 7 9
 
 '''
+
 n = int(input())
 x = [int(i) for i in input().split()][:n]
 y = [int(i) for i in input().split()][:n]

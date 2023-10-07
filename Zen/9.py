@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 userInput = int(input())
 n = len([i for i in str(userInput)])
 print(n)

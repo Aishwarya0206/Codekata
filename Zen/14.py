@@ -17,6 +17,7 @@ Sample Output :
 8
 
 '''
+
 #Getting input via STDIN
 userInput = int(input())
 val = max([int(i) for i in input().strip().split()][:userInput])

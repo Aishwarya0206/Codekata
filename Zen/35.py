@@ -17,6 +17,7 @@ Sample Output :
 4
 
 '''
+
 n = int(input())
 l = [int(i) for i in input().split()][:n]
 s = []

@@ -18,6 +18,7 @@ Sample Output :
 
 '''
 
+
 n = int(input())
 userInput = [int(i) for i in input().strip().split()][:n]
 print(min(userInput))

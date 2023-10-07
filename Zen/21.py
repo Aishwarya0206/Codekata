@@ -17,6 +17,7 @@ leap year
 
 '''
 
+
 #Getting input via STDIN
 userInput = int(input())
 print('leap year' if(userInput%4 == 0) else 'not a leap year')

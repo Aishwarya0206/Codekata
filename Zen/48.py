@@ -17,6 +17,7 @@ Sample Output :
 2
 
 '''
+
 n = int(input())
 l = [int(i) for i in input().split()][:n]
 s_l = sorted(list(set(l)), reverse = True)

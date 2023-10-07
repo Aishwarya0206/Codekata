@@ -16,6 +16,7 @@ Sample Output :
 gv gk
 
 '''
+
 vowels = ['a', 'e', 'i', 'o', 'u']
 n = input()
 s = ''

@@ -18,6 +18,7 @@ Sample Output :
 -1
 
 '''
+
 #Getting input via STDIN
 userInput = int(input())
 x = [int(i) for i in input().strip().split()][:userInput]

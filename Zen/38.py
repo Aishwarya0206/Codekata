@@ -18,6 +18,7 @@ Sample Output :
 
 '''
 
+
 n, m = tuple(map(int, input().split()))
 l = list(map(int, input().split()))[:n]
 if(m in l):

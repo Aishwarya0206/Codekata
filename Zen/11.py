@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 userInput = [int(i) for i in input().strip().split()]
 s = [str(i) for i in range(userInput[0]+1, userInput[1])]
 print(' '.join(s))

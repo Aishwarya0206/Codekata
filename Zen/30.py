@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 special_char = '''-\{};,.~'"!@#$%^&*()[]:?/|_'''
 userInput = input()
 k = 0

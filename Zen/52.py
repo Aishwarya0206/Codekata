@@ -17,5 +17,4 @@ Sample Input :
 
 Sample Output :
 25
-
 '''

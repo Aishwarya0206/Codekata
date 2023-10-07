@@ -16,6 +16,7 @@ Sample Output :
 8
 
 '''
+
 n = input()
 c = 0
 for i in n:

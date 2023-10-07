@@ -16,6 +16,7 @@ Sample Output :
 geek guvi
 
 '''
+
 #Getting input via STDIN
 userInput = [i for i in input().strip().split()]
 a = []

@@ -20,6 +20,7 @@ Sample Output :
 
 '''
 
+
 n, m = tuple(map(int, input().split()))
 l = []
 for i in range(n):

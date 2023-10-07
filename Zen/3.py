@@ -17,6 +17,8 @@ Sample Output :
 -1
 
 '''
+
+
 n = int(input())
 l = list(map(int, input().split(' ')))[:n]
 get = [str(i) for i in l if(i>15)]

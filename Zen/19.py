@@ -16,6 +16,7 @@ Sample Output :
 XyzaBcnMk
 
 '''
+
 special_char = '''-\{};,.~'"!@#$%^&*()[]:?/|_'''
 userInput = input()
 userInput1 = ''

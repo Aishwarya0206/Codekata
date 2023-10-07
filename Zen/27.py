@@ -17,6 +17,7 @@ ui ee
 
 '''
 
+
 userInput = input()
 vowels = 'aeiou'
 for j in userInput:

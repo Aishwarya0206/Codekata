@@ -15,6 +15,7 @@ Sample Output :
 even
 '''
 
+
 n = int(input())
 userInput = sum([int(i) for i in input().strip().split()][:n])
 print('even' if(userInput%2==0) else 'odd')

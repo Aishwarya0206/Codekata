@@ -16,6 +16,7 @@ Sample Input :
 Sample Output :
 20
 '''
+
 from re import L
 n, m = tuple(map(int, input().split()))
 s = []

@@ -20,6 +20,7 @@ Sample Output :
 
 '''
 
+
 #Getting input via STDIN
 n = int(input())
 userInput = sorted([int(i) for i in input().split()][:n])

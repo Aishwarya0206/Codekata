@@ -17,6 +17,7 @@ Sample Output :
 8 7 6 5 4 4
 
 '''
+
 #Getting input via STDIN
 n = int(input())
 userInput = sorted([int(i) for i in input().split()][:n], reverse=True)

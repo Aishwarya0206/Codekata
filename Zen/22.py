@@ -17,5 +17,6 @@ no
 
 '''
 
+
 n, a, b, c = tuple(map(int, input().strip().split()))
 print('yes' if(n%a == 0 and n%b == 0 and n%c == 0) else 'no')

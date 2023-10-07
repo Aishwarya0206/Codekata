@@ -17,6 +17,7 @@ Sample Output :
 Guvi
 
 '''
+
 s1 = input()
 s2 = input()
 s = []

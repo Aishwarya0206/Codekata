@@ -15,6 +15,7 @@ Sample Output :
 7
 '''
 
+
 n, m, k = tuple(map(int, input().strip().split()))
 s = [int(i) for i in input().strip().split()][:n]
 if(len(s)>=3):

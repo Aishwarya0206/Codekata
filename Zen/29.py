@@ -16,6 +16,7 @@ Sample Output :
 ivug keeg
 
 '''
+
 #Getting input via STDIN
 userInput = [i for i in input().strip().split()]
 k = []

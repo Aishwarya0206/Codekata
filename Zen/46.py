@@ -18,6 +18,7 @@ Sample Output :
 
 '''
 
+
 n = int(input())
 l = sorted(list(set([int(i) for i in input().split()][:n])))
 print(l[1])

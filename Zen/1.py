@@ -14,6 +14,7 @@ Sample Output :
 GUVI GEEK
 '''
 
+
 #Getting input via STDIN
 userInput = input()
 print(userInput.upper())

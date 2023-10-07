@@ -15,6 +15,7 @@ Sample Output :
 7
 '''
 
+
 n = int(input())
 l = sorted(list(set(list(map(int, input().split()))[:n])), reverse=True)
 print(l[1])

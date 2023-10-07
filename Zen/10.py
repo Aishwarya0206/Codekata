@@ -17,5 +17,6 @@ yes
 
 '''
 
+
 userInput = int(input())
 print('yes' if(userInput%2 == 0 and userInput%3 == 0 and userInput%5 == 0) else 'no')

@@ -17,6 +17,7 @@ Sample Output :
 
 '''
 
+
 #Getting input via STDIN
 userInput = input()
 c1 = 0
