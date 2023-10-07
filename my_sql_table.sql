@@ -51,3 +51,13 @@ INSERT INTO Module_Details VALUES(34, "Segment Tree", 21, 0, 0, NULL, NULL, NULL
 INSERT INTO Module_Details VALUES(35, "KPRIET-U19CS307", 14, 3, 0, NULL, NULL, NULL);
 INSERT INTO Module_Details VALUES(36, "OOPS - KPR", 11, 0, 0, NULL, NULL, NULL);
 INSERT INTO Module_Details VALUES(37, "Advanced DS - KPR", 10, 0, 0, NULL, NULL, NULL);
+
+CREATE VIEW Total_Problems_Solved AS SELECT SUM(Total_Solved_Problems) FROM Module_Details;
+
+CREATE VIEW Yet_To_Solve_And_Complete AS SELECT SUM(Total_Problems) - SUM(Total_Solved_Problems) FROM Module_Details;
+
+CREATE VIEW Yet_To_Solve_By_Module AS SELECT Module_ID, Module_Name, Total_Problems - Total_Solved_Problems AS Yet_To_Solve FROM Module_Details;
+
+SELECT * FROM Total_Problems_Solved;
+SELECT * FROM Yet_To_Solve_And_Complete;
+SELECT * FROM Yet_To_Solve_By_Module;
