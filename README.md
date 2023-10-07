@@ -1,3 +1,4 @@
+<pre>
 Input/Output completed
 Absolute Beginner completed
 Basics - 20, 31, 35, 39, 40 (Yet to solve)
@@ -23,3 +24,4 @@ Zoho - 1, 2, 3, 5, 6, 7, 9 (Yet to solve)
 Algorithm - only 1, 2, 3, 10, 11, 14, 16 were solved (Others yet to solve)
 Samsung - only 1, 5, 8, 14, 15, 18 were solved (Others yet to solve)
 Bitwise - Only 6, 7, 9, 10 were solved (Others yet to solve)
+</pre>
