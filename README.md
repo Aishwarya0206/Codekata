@@ -6,3 +6,4 @@ Array - 3, 4, 5, 10, 16 (Yet to solve)
 Mathematics - 3, 5, 8, 11, 14, 15, 18 (Yet to solve)
 Strings - 19, 20 (Yet to solve)
 Companies - 3, 6, 10, 11, 12, 13, 15, 16, 18, 19, 20
+Zen - 17, 37, 42, 49, 50, 51, 52
