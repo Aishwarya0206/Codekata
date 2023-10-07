@@ -14,6 +14,7 @@ Sample Output :
 2 0
 '''
 
+
 #Getting input via STDIN
 userInput = [int(i) for i in input().strip().split()]
 print(userInput[0]//userInput[1], userInput[0]%userInput[1])
